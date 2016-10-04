@@ -14,7 +14,8 @@
   <preference name="SplashScreen" value="screen"/>
   <preference name="SplashScreenDelay" value="3000" />  
   <plugin name="cordova-plugin-whitelist" spec="1.3.0" />
-  <gap:plugin name="org.apache.cordova.device"/>
+  <plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" />
+  <gap:plugin name="org.apache.cordova.media"/>
   <icon src="icon.png" gap:role="default" />
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
