@@ -12,17 +12,7 @@
   <preference name="android-minSdkVersion" value="15"/>
   <preference name="android-installLocation" value="auto"/>
   <preference name="SplashScreen" value="screen"/>
-  <preference name="SplashScreenDelay" value="3000" />
-  <plugin name="cordova-plugin-whitelist" version="1"/>
-  <plugin name="org.apache.cordova.device" spec="0.3.0" source="pgb" />
-  <plugin name="org.apache.cordova.media" spec="0.2.16" source="pgb" />
-  <plugin name="org.apache.cordova.network-information" spec="0.2.15" source="pgb"/>
-  <plugin name="org.apache.cordova.splashscreen" spec="1.0.0" source="pgb" />
-  <plugin name="phonegap-plugin-push" source="npm" version="1.2.3" />
-  <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.8.0">
-        <param name="APP_ID" value="591888654311570" />
-        <param name="APP_NAME" value="purple stores" />
-  </gap:plugin>  
+  <preference name="SplashScreenDelay" value="3000" />  
   <icon src="icon.png" gap:role="default" />
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
