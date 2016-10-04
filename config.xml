@@ -17,10 +17,7 @@
     <plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" />
     <plugin name="org.apache.cordova.media" source="pgb" spec="0.2.16" />
     <plugin name="org.apache.cordova.network-information" source="pgb" spec="0.2.15" />
-    <plugin name="org.apache.cordova.splashscreen" source="pgb" spec="1.0.0" />
-    <plugin name="phonegap-plugin-push" spec="1.6.0">
-    <param name="SENDER_ID" value="34875728456" />
-</plugin>
+    <plugin name="org.apache.cordova.splashscreen" source="pgb" spec="1.0.0" /> 
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
             <param name="APP_ID" value="591888654311570" />
             <param name="APP_NAME" value="purple stores" />
