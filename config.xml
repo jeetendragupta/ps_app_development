@@ -13,6 +13,7 @@
   <preference name="android-installLocation" value="auto"/>
   <preference name="SplashScreen" value="screen"/>
   <preference name="SplashScreenDelay" value="3000" />  
+  <plugin name="cordova-plugin-whitelist" version="1"/>
   <icon src="icon.png" gap:role="default" />
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
