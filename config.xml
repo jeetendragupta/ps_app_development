@@ -26,7 +26,7 @@
         <param name="SENDER_ID" value="267514034297" />
     </gap:plugin>
      <gap:plugin name="cordova-plugin-facebook4" source="npm" spec="1.7.3">
-        <param name="APP_ID" value="591888654311570" />
+        <param name="APP_ID" value="324185204452406" />
          <param name="APP_NAME" value="purple stores" />
     </gap:plugin>
    <!--<plugin name="com.phonegap.plugins.pushplugin" source="pgb" />-->
