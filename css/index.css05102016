@@ -404,4 +404,16 @@ box-sizing: border-box;}
 	.secon_as li{display: inline-block;}
     
    
-	
+    .sa_wrapper_inner{width: 100%;margin: 0 auto 0 auto; font-family:calibri;text-align: center;}
+    
+    .app_btn {text-align:center;}
+    .app_or {text-align:center;margin: 30px 0;}
+    .app_btn a{text-decoration:none;display: inline-block;}
+    .curr_sion {background-color: #530052;color:#ffffff;font-size: 24px;border-radius: 5px;padding: 7px 15px;}
+    .new_sion {background-color: #333333;color:#ffffff;font-size: 24px;border-radius: 5px;padding: 5px 50px;}
+    
+.app_logo img {
+    margin:0 auto 18% auto;
+    text-align: center;
+    width: 80%;
+}
