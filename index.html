@@ -57,7 +57,11 @@
                 </div>
                 <div class="Offline-app-login-window" style="display:none;">
                     <div class="app-initialise-already">
-                        <div class="continue-with-current-window" style="display:none">
+                        <div class="continue-with-current-window" style="display:none;">
+                            <button class="fb-login-in-app" onClick="connectCurrentSession()">Continue with Current Session</button> <br /><br /> OR <br /><br />
+                            <button class="fb-login-in-app-new" onClick="connectNewSession()">New Session</button> <br /><br />
+                        </div>
+                       <!--  <div class="continue-with-current-window" style="display:none">
                             <div class="sa_wrapper">
                             <div class="sa_wrapper_inner">
                             <div class="app_logo"><img src="img/logo.png" /></div>
@@ -66,7 +70,7 @@
                             <div class="app_btn"><button class="new_sion" onClick="connectNewSession()">New Session</button></div>
                             </div>
                             </div>                            
-                        </div>
+                        </div>  -->
                         <div class="app-initialise-first" style="display:none;">
                             <div class="top-slide-with-linking">
                                 <a id="login-access-link" class="active-top-slide-linking" href="javascript::void();" style="color:#ff9900; text-decoration:underline;font-size:12px; padding:10px 0 0 10px">Sign In</a>
