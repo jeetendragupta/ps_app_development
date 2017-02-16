@@ -28,7 +28,7 @@
     <plugin name="cordova-plugin-splashscreen" source="npm" spec="1.0.0" />  
     
     <gap:plugin name="cordova-plugin-facebook4" source="npm" spec="1.7.3">
-       <param name="APP_ID" value="1903265109919391" />
+       <param name="APP_ID" value="1803981766591071" />
             <param name="APP_NAME" value="purple stores" />
     </gap:plugin>  
 <!--   <gap:plugin name="com.phonegap.plugins.facebookconnect">
